@@ -2,7 +2,7 @@ Hello World, I'm Vinicius
 
 # 💫 About Me:
 🔭 Currently working as a Support Technician<br>🌱 Currently learning about JPA, Angular, and Spring Boot<br>⚡ Focused on my career growth<br> <br> Studying Systems Analysis and Development 📚 (Unasp)
-<br>Technician in Systems Analysis and Development 👨‍💻 (ETEC)<br> <br>Actually, I'm Developer in TOTVS JuriTIs, it's a departament that helps the lawyers office to grow in the law rame.
+<br>Technician in Systems Analysis and Development 👨‍💻 (ETEC)<br> <br>Nowadays, I'm Developer in TOTVS JuriTIs, it's a department that helps the lawyers office to grow in the law rame
 
 
 ## 🌐 Socials:
